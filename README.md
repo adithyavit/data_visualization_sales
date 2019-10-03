@@ -1,3 +1,4 @@
+# Visualization and Analysis of Shoe Data Set
 ## About the data:
 The data selected is a shoe data that was obtained from the web site named data world. The data was not pre-processed and was given in its raw form. We had to use regular expressions and scripts to pre-process the data.
 
